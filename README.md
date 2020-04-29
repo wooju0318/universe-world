@@ -1,2 +1,3 @@
 # universe-world
-learn
+learn /
+chinchilla lover
